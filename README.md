@@ -36,6 +36,5 @@ By implementing the blue-green deployment strategy using AWS services, the proje
 
 The successful completion of the project will showcase the benefits of blue-green deployment in a production environment and provide a solid foundation for future deployments and infrastructure management.
 
-If you need further details on any specific aspect of the project or have additional questions, feel free to ask for more information.
 
-Written by Chatsonic
+
